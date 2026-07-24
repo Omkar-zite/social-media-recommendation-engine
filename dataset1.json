@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "friends": [2, 3, 4, 2],
+      "liked_pages": [101, 102, 103]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "friends": [1, 3, 5, 6],
+      "liked_pages": [101, 104, 105]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "friends": [1, 2, 4, 7],
+      "liked_pages": [102, 103, 106]
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "friends": [1, 3, 8],
+      "liked_pages": [101, 107]
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "friends": [2, 6, 9],
+      "liked_pages": [104, 105, 108]
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "friends": [2, 5, 7, 10],
+      "liked_pages": [105, 108, 109]
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "friends": [3, 6, 8],
+      "liked_pages": [102, 109]
+    },
+    {
+      "id": 8,
+      "name": "Henry",
+      "friends": [4, 7, 11],
+      "liked_pages": [107, 110]
+    },
+    {
+      "id": 9,
+      "name": "Isabella",
+      "friends": [5, 10],
+      "liked_pages": [104, 108]
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "friends": [6, 9, 12],
+      "liked_pages": [105, 109]
+    },
+    {
+      "id": 11,
+      "name": "Kevin",
+      "friends": [8, 13],
+      "liked_pages": [107, 110]
+    },
+    {
+      "id": 12,
+      "name": "Lily",
+      "friends": [10, 14],
+      "liked_pages": [101, 106]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "friends": [11],
+      "liked_pages": [110]
+    },
+    {
+      "id": 14,
+      "name": "Mia",
+      "friends": [],
+      "liked_pages": []
+    },
+    {
+      "id": 15,
+      "name": "Noah",
+      "friends": [1, 2, 3, 3],
+      "liked_pages": [101, 102, 105]
+    }
+  ],
+  "pages": [
+    {
+      "id": 101,
+      "name": "Python Programming"
+    },
+    {
+      "id": 102,
+      "name": "Machine Learning"
+    },
+    {
+      "id": 103,
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": 104,
+      "name": "Web Development"
+    },
+    {
+      "id": 105,
+      "name": "Data Science"
+    },
+    {
+      "id": 106,
+      "name": "Cloud Computing"
+    },
+    {
+      "id": 107,
+      "name": "Cyber Security"
+    },
+    {
+      "id": 108,
+      "name": "UI UX Design"
+    },
+    {
+      "id": 109,
+      "name": "Open Source"
+    },
+    {
+      "id": 110,
+      "name": "DevOps"
+    },
+    {
+      "id": 105,
+      "name": "Data Science"
+    }
+  ]
+}
