@@ -31,7 +31,7 @@ Social-Network-Recommendation-System/
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/social-network-recommendation-system.git
+git clone https://github.com/omkar-zite/social-network-recommendation-system.git
 
 cd social-network-recommendation-system
 
